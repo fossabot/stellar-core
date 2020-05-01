@@ -14,6 +14,8 @@ It is written in C++14 and runs on Linux, OSX and Windows.
 Learn more by reading the [overview document](https://github.com/stellar/stellar-core/blob/master/docs/readme.md).
 
 # Documentation
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpaulsd2020%2Fstellar-core.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpaulsd2020%2Fstellar-core?ref=badge_shield)
+
 
 Documentation of the code's layout and abstractions, as well as for the
 functionality available, can be found in
@@ -30,3 +32,7 @@ See [Contributing](./CONTRIBUTING.md)
 # Running tests
 
 See [running tests](./CONTRIBUTING.md#running-tests)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpaulsd2020%2Fstellar-core.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpaulsd2020%2Fstellar-core?ref=badge_large)
